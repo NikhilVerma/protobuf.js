@@ -1,5 +1,5 @@
 {
-  "name": "protobufjs",
+  "name": "@cldcvr/protobufjs",
   "version": "6.11.3",
   "versionScheme": "~",
   "description": "Protocol Buffers for JavaScript (& TypeScript).",
